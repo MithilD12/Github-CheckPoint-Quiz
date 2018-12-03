@@ -13,4 +13,7 @@ public class GitTest{
 	public String toString(){
 		return "\"+test+\"";
 	}
+	public void setString(){
+		this.test = test;
+	}
 }
