@@ -6,5 +6,7 @@ public class GitTest{
 	public GitTest(){
 	test  = "This is my GitHub test";
 	}
-
+	public String toString(){
+		return "\"+test+\"";
+	}
 }
